@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcPrecio", "CalcPrecio\CalcPrecio.csproj", "{45C110D7-81BC-42D7-A282-62EBA52EF4A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45C110D7-81BC-42D7-A282-62EBA52EF4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C110D7-81BC-42D7-A282-62EBA52EF4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C110D7-81BC-42D7-A282-62EBA52EF4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C110D7-81BC-42D7-A282-62EBA52EF4A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C915EA98-9B61-4048-956D-31A6CEFD112B}
+	EndGlobalSection
+EndGlobal
